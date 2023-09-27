@@ -1,2 +1,16 @@
-.row {
-    min-width: ;
+.col-4 img {
+    width: 400px;
+    height: 400px;
+}
+
+.card {
+    width: 600px;
+    height: 500px;
+}
+
+.card-header {
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: space-between;
+}
